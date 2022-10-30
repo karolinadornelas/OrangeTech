@@ -6,7 +6,7 @@ const medias = [2,7,3,8,10,4]
 for (let i = 0; i < medias.length; i++) {
     const statusDeNota = medias[i];
     console.log(statusDeNota)
-    if (statusDeNota <=5){
+    if (statusDeNota <5){
         console.log('Recuperação')
     }
 }
