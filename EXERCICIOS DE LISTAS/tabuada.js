@@ -1,0 +1,2 @@
+/*Crie um programa que dado um número imprima a sua tabuada.*/
+
